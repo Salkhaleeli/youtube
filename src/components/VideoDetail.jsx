@@ -50,7 +50,6 @@ function VideoDetail() {
                   {parseInt(likeCount).toLocaleString()} Likes
                 </Typography>
               </Stack>
-
             </Stack>
           </Box>
         </Box>
