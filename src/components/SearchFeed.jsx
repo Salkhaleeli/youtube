@@ -6,11 +6,11 @@ import { Videos } from './';
 
 const SearchFeed = () => {
 
-  const [videos, setvideos] = useState([]);
+  const [videos, setVideos] = useState([]);
   const { searchTerm } = useParams();
   useEffect(() => {
     fetchFromAPI(`search?part=snippet&q=${searchTerm}`)
-      .then((data) => setvideos(data.items))
+      .then((data) => setVideos(data.items))
   }, [searchTerm]);
   return (
     <Box
