@@ -5,7 +5,7 @@ Users can view and search youtube videos. Also they can view number of likes and
 
 ## `Visit Youtube_Clone Online`
 Youtube_Clone is live and online.
-You can visit https://poetic-khapse-13a141.netlify.app to view it.
+You can visit https://dulcet-faloodeh-adc94d.netlify.app/ to view it.
 
 ![](docs/youtubeHome.png)
 ![](docs/music.png)
