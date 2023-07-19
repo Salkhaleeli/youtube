@@ -14,6 +14,7 @@ You can visit https://dulcet-faloodeh-adc94d.netlify.app/ to view it.
 
 # Getting Started
 
+
 1. Clone the repo
 3. cd and run npm install and then run npm start
 4. Go to http://localhost:3000 in your browser
